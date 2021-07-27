@@ -16,7 +16,7 @@ dependencies {
 
 ```
 
-<img src = "https://user-images.githubusercontent.com/73948775/127089893-865d7680-a836-44e8-8769-3fa3cb96e0b4.gif" width="250px">
+<img src = "https://user-images.githubusercontent.com/73948775/127089962-862801c1-dc4d-46ee-bb07-f4d99d929c36.gif" width="250px">
 
 
 
