@@ -21,3 +21,14 @@ ViewPager2를 활용한 가로 슬라이더 입니다.
 [Developer documents](https://haruple.tistory.com/169)
 
 <img src = "https://user-images.githubusercontent.com/73948775/127583917-77e302d1-641e-4cfa-a5e1-14cd7339df0c.gif" width="250px">
+
+
+
+
+## SharedPreferences_OpenSource
+
+앱을 나갔다 다시 실행해도 정보가 저장되도록 할 수 있는<br/>
+SharedPreferences 예제 입니다.
+
+
+
